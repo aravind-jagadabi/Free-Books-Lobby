@@ -2,6 +2,8 @@
 
 # Here's the some of the screenshots of the project.
 
+#these are all the static web pages, as i was not hosted in the internet, but we have tested this in the xampp server.
+
 #main page
 
 ![image](https://user-images.githubusercontent.com/76617844/207954751-2e643559-7594-444c-8045-59cdd312aca4.png)
