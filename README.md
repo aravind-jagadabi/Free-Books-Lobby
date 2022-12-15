@@ -2,7 +2,7 @@
 
 # Here's the some of the screenshots of the project.
 
-these are all the static web pages, as i was not hosted in the internet, but we have tested this in the xampp server.
+These are all the static web pages, as I was not hosted on the internet, but we have tested this in our college computer lab on the Xampp server.
 
 main page
 
@@ -24,6 +24,6 @@ registration page
 
 ![image](https://user-images.githubusercontent.com/76617844/207955303-dd37145e-4599-416c-9700-d5ae391f3777.png)
 
-searching for a book in the database
+this how we can search for a book in the database
 
 ![Screenshot (280)](https://user-images.githubusercontent.com/76617844/207956322-bf19deeb-aded-43b2-b8f0-3b3882dc138b.png)
