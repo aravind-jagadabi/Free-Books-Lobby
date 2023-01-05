@@ -2,7 +2,7 @@
 
 # Here's the some of the screenshots of the project.
 
-These are all the static web pages, as I was not hosted on the internet, but we have tested this in our college computer lab on the Xampp server.
+These are all the static web pages, as I was not hosted on the internet, but we have tested this in our college computer lab using Xampp server.
 
 main page
 
